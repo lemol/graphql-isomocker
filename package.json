@@ -1,6 +1,9 @@
 {
   "name": "graphql-isomocker",
   "version": "0.0.1",
+  "resolutions": {
+    "event-stream": "3.3.4"
+  },
   "description": "Graphql resolvers mockers for browser and node.js",
   "main": "lib/index.js",
   "scripts": {
